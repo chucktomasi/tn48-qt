@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="extra_credit" label="Extra credit" language="en" table="x_66238_tn48qt_assignment">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>extra_credit</element>
+            <help/>
+            <hint/>
+            <label>Extra credit</label>
+            <language>en</language>
+            <name>x_66238_tn48qt_assignment</name>
+            <plural>Extra credits</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-03-05 15:12:16</sys_created_on>
+            <sys_id>5436f3d70f2013007500cbdce1050ecc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Extra credit</sys_name>
+            <sys_package display_value="TN48 - QT" source="x_66238_tn48qt">9f15b3570f2013007500cbdce1050e0b</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="TN48 - QT">9f15b3570f2013007500cbdce1050e0b</sys_scope>
+            <sys_update_name>sys_documentation_x_66238_tn48qt_assignment_extra_credit_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-03-05 15:12:16</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

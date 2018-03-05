@@ -12,31 +12,31 @@
         <image/>
         <link_type>LIST</link_type>
         <map_page/>
-        <mobile_title>Course</mobile_title>
+        <mobile_title>Assignments</mobile_title>
         <mobile_view_name>Mobile</mobile_view_name>
-        <name>x_66238_tn48qt_course</name>
-        <order>100</order>
+        <name>x_66238_tn48qt_assignment</name>
+        <order>200</order>
         <override_menu_roles>false</override_menu_roles>
         <query/>
         <report/>
         <roles>x_66238_tn48qt.user</roles>
         <sys_class_name>sys_app_module</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2018-03-05 15:07:37</sys_created_on>
+        <sys_created_on>2018-03-05 15:12:15</sys_created_on>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
-        <sys_id>c825fb570f2013007500cbdce1050e6c</sys_id>
+        <sys_id>4c36f3d70f2013007500cbdce1050e81</sys_id>
         <sys_mod_count>1</sys_mod_count>
-        <sys_name>Course</sys_name>
+        <sys_name>Assignments</sys_name>
         <sys_overrides/>
         <sys_package display_value="TN48 - QT" source="x_66238_tn48qt">9f15b3570f2013007500cbdce1050e0b</sys_package>
         <sys_policy/>
         <sys_scope display_value="TN48 - QT">9f15b3570f2013007500cbdce1050e0b</sys_scope>
-        <sys_update_name>sys_app_module_c825fb570f2013007500cbdce1050e6c</sys_update_name>
+        <sys_update_name>sys_app_module_4c36f3d70f2013007500cbdce1050e81</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-03-05 15:13:36</sys_updated_on>
+        <sys_updated_on>2018-03-05 15:13:49</sys_updated_on>
         <timeline_page/>
-        <title>Course</title>
+        <title>Assignments</title>
         <uncancelable>false</uncancelable>
         <view_name/>
         <window_name/>

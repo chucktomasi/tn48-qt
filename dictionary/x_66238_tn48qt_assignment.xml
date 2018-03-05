@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Assignment" max_length="40" name="x_66238_tn48qt_assignment" type="collection">
+        <element label="Course" max_length="32" name="course" reference="x_66238_tn48qt_course" type="reference"/>
+        <element label="Due" max_length="40" name="due" type="glide_date"/>
+        <element choice="1" label="Extra credit" mandatory="true" max_length="40" name="extra_credit" type="choice">
+            <choice/>
+        </element>
+        <element choice="1" label="Language" mandatory="true" max_length="40" name="language" type="choice">
+            <choice/>
+        </element>
+        <element display="true" label="Name" max_length="40" name="name" type="string"/>
+        <index name="index">
+            <element name="course"/>
+        </index>
+    </element>
+</database>

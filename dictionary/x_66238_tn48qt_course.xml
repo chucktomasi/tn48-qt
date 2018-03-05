@@ -1,4 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
-    <element label="Course" max_length="40" name="x_66238_tn48qt_course" type="collection"/>
+    <element label="Course" max_length="40" name="x_66238_tn48qt_course" type="collection">
+        <element default="true" label="Active" max_length="40" name="active" type="boolean"/>
+        <element choice="1" label="Curriculum equiv" mandatory="true" max_length="40" name="curriculum_equiv" type="choice">
+            <choice>
+                <element label="Yes" sequence="0" value="Yes"/>
+                <element label="No" sequence="1" value="No"/>
+            </choice>
+        </element>
+        <element choice="1" label="Language" mandatory="true" max_length="40" name="language" type="choice">
+            <choice>
+                <element label="English" sequence="0" value="English"/>
+                <element label="Spanish" sequence="1" value="Spanish"/>
+                <element label="German" sequence="2" value="German"/>
+                <element label="French" sequence="3" value="French"/>
+                <element label="Italian" sequence="4" value="Italian"/>
+            </choice>
+        </element>
+        <element display="true" label="Name" max_length="40" name="name" type="string"/>
+    </element>
 </database>
